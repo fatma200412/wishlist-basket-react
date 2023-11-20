@@ -1,0 +1,23 @@
+.nav {
+  background: rgb(61, 142, 245);
+  background: linear-gradient(
+    198deg,
+    rgba(61, 142, 245, 1) 0%,
+    rgba(218, 19, 148, 1) 58%,
+    rgba(251, 0, 0, 1) 100%
+  );
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  margin-bottom: 50px;
+  color: white;
+  font-size: 20px;
+}
+ul {
+  list-style: none;
+  display: flex;
+}
+li {
+  padding-left: 30px;
+}
